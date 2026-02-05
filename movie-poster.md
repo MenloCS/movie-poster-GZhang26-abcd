@@ -68,14 +68,14 @@ Focus on the shovel but it will be in the background.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt: Generate a movie poster for Home Alone. The main colors are bright, holiday ones like green and red... evokes a sense of nostalgia and excitement. The essential element is the shovel of the salt man. Avoid putting Kevin's family in the poster and include Kevin's Mac and cheese. 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked: It did everything I prompted it with a very cartoonish style.
+- **What didn't work: The elements are really out of place. 
+- **What I'll change for next attempt: It would be better for the poster to take place inside the house because that is where the action happens.   
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt: Generate a movie poster for Home Alone. The main colors are bright, holiday ones like green and red... evokes a sense of nostalgia and excitement. The essential element is the shovel of the salt man. Avoid putting Kevin's family in the poster and include Kevin's Mac and cheese. Make the poster portrait format and make the figures and everything more realistic. Show the inside of the house instead.
 
 - **What worked:**  
 - **What didn't work:**  
