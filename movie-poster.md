@@ -77,9 +77,9 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 **Attempt 2:**  
 - **My prompt: Generate a movie poster for Home Alone. The main colors are bright, holiday ones like green and red... evokes a sense of nostalgia and excitement. The essential element is the shovel of the salt man. Avoid putting Kevin's family in the poster and include Kevin's Mac and cheese. Make the poster portrait format and make the figures and everything more realistic. Show the inside of the house instead.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked: It is now inside and you can see the bad guys. 
+- **What didn't work: the elements are still really out of place and it looks too cartoony. 
+- **What I'll change for next attempt: I want Kevin specifically to be pinned by the bad guys on the wall like in the movie, but we can see the shadow of the shovel against the door. 
 
 ---
 
@@ -89,14 +89,14 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt: Generate a movie poster for Home Alone. The main colors are bright, holiday ones like green and red... evokes a sense of nostalgia and excitement. The essential element is the shovel of the salt man. Avoid putting Kevin's family in the poster and include Kevin's Mac and cheese. Make the poster portrait format and make the figures and everything more realistic. Show the inside of the house instead, with Kevin specifically pinned by the bad guys on the wall like in the movie, but we can see the shadow of the shovel against the door. 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked: It's a lot more realistic and I can kind of see my vision. 
+- **What didn't work: the set up isn't quite focused like what I would like 
+- **What I'll change for next attempt: Kevin and the bad guys should be in the center and I just want to see the shadow of the person raising the shovel, but they are not visible. The Mac and cheese should not be in the center.  
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt: Generate a movie poster for Home Alone. The main colors are bright, holiday ones like green and red... evokes a sense of nostalgia and excitement. The essential element is the shovel of the salt man. Avoid putting Kevin's family in the poster and include Kevin's Mac and cheese. Make the poster portrait format and make the figures and everything more realistic. Show the inside of the house instead, with Kevin specifically pinned by the bad guys on the wall like in the movie, but we can see the shadow of the shovel against the door. Kevin and the bad guys should be in the center and I just want to see the shadow of the person raising the shovel, but they are not visible. The Mac and cheese should not be in the center.  
 
 - **What worked:**  
 - **What didn't work:**  
