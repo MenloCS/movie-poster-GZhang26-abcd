@@ -98,12 +98,12 @@ Keep refining. Try at least two more meaningfully different directions.
 **Attempt 4:**  
 - **My prompt: Generate a movie poster for Home Alone. The main colors are bright, holiday ones like green and red... evokes a sense of nostalgia and excitement. The essential element is the shovel of the salt man. Avoid putting Kevin's family in the poster and include Kevin's Mac and cheese. Make the poster portrait format and make the figures and everything more realistic. Show the inside of the house instead, with Kevin specifically pinned by the bad guys on the wall like in the movie, but we can see the shadow of the shovel against the door. Kevin and the bad guys should be in the center and I just want to see the shadow of the person raising the shovel, but they are not visible. The Mac and cheese should not be in the center.  
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked: The old man is now raising the shovel. 
+- **What didn't work: The Mac and cheese stands out too much and the people are not centered.  
 
 **Final AI Image Selected:** (Which attempt? Why?)  
 
----
+I chose Attempt 4 because it is the most realistic, the closest one to my vision, and I think that the scene it shows does not explicitly tell you if this is the start or the ending of the story. 
 
 ## Step 4: Photoshop Modifications
 *(Commit message: "Added Photoshop modifications")*
