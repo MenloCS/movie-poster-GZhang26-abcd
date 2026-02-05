@@ -29,38 +29,38 @@ At each step, save and commit your work in GitHub Desktop.
 
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
-**Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+**Your Movie Choice:
+- **Movie Title: Home Alone
+- **Why I chose this movie: Because it is really funny 
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion: nostalgia/excitement
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element: the shovel of the salt man
+- **Why this element: it is what saves Kevin in the end
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid: Kevin's family because he is literally home alone.
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s): cheerful holiday colors (green, red...)
+- **Accent color(s): yellow Mac and cheese
+- **Overall mood: warm and bright  
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
 - [ ] Wide shot (landscape/setting)  
-- [ ] Medium shot (full figure)  
-- [ ] Object/symbol centered  
-- [ ] Character collage  
+- [X] Medium shot (full figure)  
+- [X] Object/symbol centered  
+- [X] Character collage  
 
 - **Focal point description:**  
 
----
+Focus on the shovel but it will be in the background. 
 
 ## Step 2: AI Generation – First Attempts
 *(Commit message: "Documented first two AI attempts")*
